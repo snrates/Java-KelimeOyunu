@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="beyaz">#FFFFFF</color>
+    <color name="siyah">#000000</color>
+    <color name="yesil">#137215</color>
+    <color name="seffaf_yesil">#77137215</color>
+    <color name="kirmizi">#FF0000</color>
+    <color name="seffaf">#AB9FC2B7</color>
+    <color name="turuncu_seffaf">#6F8C56D8</color>
+
+</resources>
